@@ -1,5 +1,5 @@
 
-usn = 'YOUR USERNAME HERE'
-psw = 'YOUR PASSWORD HERE'
-twoFA = 'YOUR TEO FACTOR AUTHENTICATION HERE'
-api_secret = 'YOUR API SECRET HERE'
+usn = input("Please enter Username:")
+psw = input("Please enter password:")
+twoFA = input("Please enter TWOFA")
+api_secret = input("Please paste API key:")
